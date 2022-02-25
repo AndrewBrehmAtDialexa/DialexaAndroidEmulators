@@ -18,6 +18,7 @@
 ## HOW ARE SCREEN SIZES CALCULATED?
 * Taking the screen dimensions from spec documentation
   * Reece [Zebra](documentation/Reece/TC52-TC57-specification-sheet.pdf)
+    * Additional resource: [VIDEO](https://www.youtube.com/watch?v=njo9iNs2zrA) `Zebra DevTalk | How to start developing for Zebra Android Devices`
 * Using a [Screen Size Calculator](https://www.omnicalculator.com/other/screen-size) dimensions are entered to get full screen data.
 * That info is entered into the Android Studio Configure Hardware Profile wizard
   * <img src="documentation/images/hardwareConfiguration.jpg" width="500">
