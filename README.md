@@ -14,3 +14,10 @@
   * <img src="documentation/images/iniFilePath.jpg" width="500">
 * Restart Android Studio and new emulator is in the dropdown
   * <img src="documentation/images/androidStudioDeviceDropdown.jpg" width="500">
+
+## HOW ARE SCREEN SIZES CALCULATED?
+* Taking the screen dimensions from spec documentation
+  * Reece [Zebra](documentation/Reece/TC52-TC57-specification-sheet.pdf)
+* Using a [Screen Size Calculator](https://www.omnicalculator.com/other/screen-size) dimensions are entered to get full screen data.
+* That info is entered into the Android Studio Configure Hardware Profile wizard
+  * <img src="documentation/images/hardwareConfiguration.jpg" width="500">
